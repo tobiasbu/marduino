@@ -5,7 +5,7 @@ A platform game for Arduino Uno.
 
 ###Requirements:
 * Arduino Uno
-* Nokia 5510 display
+* Nokia 5110 display
 * Three buttons
 * Additional libraries Adafruit GFX and Adafruit_PCD8544
  
