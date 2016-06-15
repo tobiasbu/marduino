@@ -4,19 +4,19 @@
  * 
  * Requirements:
  * Nokia 5510 display and three buttons.
- * Additional libraries Adafruit GFX and Adafruit_PCD8544.
+ * Additional libraries: Adafruit GFX and Adafruit_PCD8544.
  * 
  * Created by Tobias Beise Ulrich
- * https//www.tobiasbu.wordpress.com
+ * http://tobiasbu.github.io/website 
  * 
  * GitHub:
- * https://github.com/kaltkaffee/marduino
+ * https://github.com/tobiasbu/marduino
  * 
- * Januray, 2014.
+ * 2014-2016.
  * 
  * -------------------------------------
- * LAST UPDATE: 22/05/2016
- * Bugs fixed and repository created.
+ * LAST UPDATE: 15/06/2016
+ * Header information update.
  * 
  */
 
