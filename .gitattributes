@@ -1,0 +1,24 @@
+# Normalize EOL for all files that Git considers text files
+* text=auto eol=lf
+
+# C++
+*.cpp linguist-language=cpp
+*.hpp linguist-language=cpp
+
+# C
+*.c linguist-language=c
+*.h linguist-language=c
+
+# Markdown
+*.md       text diff=markdown
+*.mdx      text diff=markdown
+
+# Graphics
+*.bmp      binary
+*.png      binary
+
+#
+# Exclude files from exporting
+#
+.gitattributes export-ignore
+.gitignore     export-ignore
